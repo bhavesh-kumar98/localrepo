@@ -43,3 +43,19 @@ body{
     min-height: 50px;
     background-color: #2d0fda;
 }
+
+.box5{
+    width: 50%;
+    height: 50%;
+    min-width: 50px;
+    min-height: 50px;
+    background-color: #dad70f;
+}
+
+.box6{
+    width: 50%;
+    height: 50%;
+    min-width: 50px;
+    min-height: 50px;
+    background-color: #0fdac9;
+}
